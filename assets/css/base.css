@@ -1,0 +1,51 @@
+/*font-family: "Montserrat", sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Aref+Ruqaa:wght@400;700&family=Bitcount+Grid+Double:wght@100..900&family=Caveat:wght@400..700&family=Monoton&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oi&family=Reenie+Beanie&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tajawal:wght@200;300;400;500;700;800;900&family=Tektur:wght@400..900&display=swap');
+/* */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Oi&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+
+
+
+.oi-regular {
+    font-family: "Oi", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+/* public style*/
+* {
+    margin-inline: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.container {
+
+    width: calc(100% - 120px);
+    margin: auto;
+
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+ul {
+    list-style: none;
+}
+
+/*end public style*/
