@@ -46,7 +46,7 @@ body {
   padding: 7px 13px;
   /*border:1px solid blue;*/
   border-radius: 8px;
-  color: rgb(0, 0, 0);
+  color: #0d339a;
   font-family: "Inter Tight", sans-serif;
   font-size: 20px;
   font-weight: 200;
@@ -514,7 +514,7 @@ section {
 
 .send {
   z-index: 70;
-  color: #FFFDD0;
+  color: #0d339a;
   font-family: "Caveat", cursive;
   font-size: 35px;
   border: none;
@@ -1766,9 +1766,9 @@ footer {
 
 .foter p {
   font-size: 20px;
-  font-weight: 100;
+  font-weight: 200;
   font-family: "Inter Tight", sans-serif;
-  color: #f1f1f1;
+  color: #0d339a;
 }
 
 /* for media query*/
